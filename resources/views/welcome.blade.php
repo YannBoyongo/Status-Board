@@ -9,7 +9,7 @@
 
 <body>
     <h1 class="text-3xl font-bold underline">
-        Hello world!
+        <livewire:sales-orders-status-board />
     </h1>
 </body>
 
